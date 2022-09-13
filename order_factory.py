@@ -4,6 +4,7 @@ from salad import Salad
 
 
 class OrderFactory():
+    @staticmethod
     def create_order(input):
         if input == "1":
             return Pizza()

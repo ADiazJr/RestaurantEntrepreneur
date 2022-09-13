@@ -1,13 +1,9 @@
-
-        CT#1 Dish Ordered: Pizza, from location 1, Price: 5, Total: 5
-        
-        CT#2 Dish Ordered: Pasta, from location 3, Price: 10, Total: 15
-        
-        CT#3 Dish Ordered: Salad, from location 2, Price: 9, Total: 24
-        
-        CT#4 Dish Ordered: Pasta, from location 3, Price: 10, Total: 34
-        
-        CT#5 Dish Ordered: Salad, from location 2, Price: 9, Total: 43
-        
-        CT#6 Dish Ordered: Pizza, from location 1, Price: 5, Total: 48
-        
+CT#1 Dish Ordered: Pizza, from location 1, Price: 5, Total: 5
+CT#2 Dish Ordered: Pasta, from location 3, Price: 10, Total: 15
+CT#3 Dish Ordered: Salad, from location 2, Price: 9, Total: 24
+CT#4 Dish Ordered: Pasta, from location 3, Price: 10, Total: 34
+CT#5 Dish Ordered: Salad, from location 2, Price: 9, Total: 43
+CT#6 Dish Ordered: Pizza, from location 1, Price: 5, Total: 48
+CT#7 Dish Ordered: Pasta, from location 1, Price: 10, Total: 10
+CT#8 Dish Ordered: Salad, from location 3, Price: 9, Total: 19
+CT#9 Dish Ordered: Pizza, from location 2, Price: 5, Total: 24
